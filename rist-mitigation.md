@@ -1,2 +1,2 @@
-# Rist Mitigation
+# Risk Mitigation
 
