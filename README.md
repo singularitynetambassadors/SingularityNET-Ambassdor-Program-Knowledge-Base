@@ -6,4 +6,4 @@ Opening Session Summary: [https://www.youtube.com/watch?v=lJ8FYsFb0TQ](https://w
 
 Categories were selected to capture a diverse range of information about the Ambassador Program from a System Design Perspective
 
-Structure and Descriptions can be improved suggestions and comments on [Category Descriptions Google Doc](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw)
+Structure and Descriptions can be improved with suggestions and comments on [Category Descriptions Google Doc](https://docs.google.com/document/d/1NzpysgIDsZFigFJz4Tiik3h2l0X4FJTJC4xEbGiwsUw)
