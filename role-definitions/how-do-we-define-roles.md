@@ -27,3 +27,18 @@ Adaptability
 
 * Roles evolve to meet the changing needs of the Program.
 * This adaptability ensures the Program remains responsive to new challenges, opportunities, and member input.
+
+
+### List of source Assets, tools or processes:
+- [Dework PBL Q1 Proposal = Google Doc](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit?usp=sharing) - Simplified Budget Request for Dework PBL Workgroup
+
+- [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
+
+- [Minimum Requirements for Proposals - Miro Board](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584332248096&amp;cot=14) - Workgroup types and requirement matrix table
+
+- [Treasury Guild Proposal- Google Doc](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing) - A Treasury Guild 2024 Q1 proposal that gives an overview of workgroup strategy, resource, team, measures and roadmap
+
+- [Snet Discord Server](https://discord.gg/snet) - Main Tool used for Communications
+
+- [Writers Workgroup Governance - Google Doc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc) - Talks about WG membership, roles, projects, collaborations etc
+
