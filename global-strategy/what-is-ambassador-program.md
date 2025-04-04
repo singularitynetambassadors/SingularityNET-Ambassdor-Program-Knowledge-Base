@@ -13,6 +13,12 @@ The key principles of the Ambassador Program include:
 
 Through this structure, the Ambassador Program fosters an inclusive, adaptable, and self-sustaining network of contributors who drive value in various ways.
 
-### List of source Assets, tools or processes:
 
-* [Ambassador Calendar - Google calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - Calendar that shows all meeting and events dates and times
+
+### List of source Assets, tools or processes:
+- [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
+
+- [SNET Ambassador Program - Webpage](https://singularitynet.io/ambassador-program/) - Page on the singularitynet.io webpage that provides high level info on the Ambassador program
+
+- [Twitter Threads](https://twitter.com/SNET_Ambassador/status/1710371182426419455) - Twitter link to SingularityNET Ambassador Program thread
+
