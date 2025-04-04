@@ -12,15 +12,15 @@ Implement feedback loops to evaluate effectiveness and adjust strategies accordi
 
 
 ### List of source Assets, tools or processes:
-- [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is website used to onboard people using Dework to manage operations in Ambassador Program
+- [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is a website used to onboard people using Dework to manage operations in Ambassador Program
 
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
 
-- [SNET Ambassador Program - Webpage](https://singularitynet.io/ambassador-program/) - Page on the singularitynet.io webpage that provides high level info on the Ambassador program
+- [SNET Ambassador Program - Webpage](https://singularitynet.io/ambassador-program/) - Page on the singularitynet.io webpage that provides high-level info on the Ambassador program
 
 - [Workgroup Types and Requirements Matrix Table - PDF](https://drive.google.com/file/d/11xaV3oG_NSJ4SpbXZiZE8JjbwyJwbCUD/view) - Workgroup types and requirement matrix table
 
-- [Requirements to propose a Workgroup Space for Ambassador Program - Google Doc](https://docs.google.com/document/d/18MpdSrOkzrKNcvlBwhO4VblKMVlWqSKkXd0jQiPm9Vw/edit?usp=sharing) - An overview of requirements what a proposal needs to quaify as a Workgroup or Guild
+- [Requirements to propose a Workgroup Space for Ambassador Program - Google Doc](https://docs.google.com/document/d/18MpdSrOkzrKNcvlBwhO4VblKMVlWqSKkXd0jQiPm9Vw/edit?usp=sharing) - An overview of requirements what a proposal needs to qualify as a Workgroup or Guild
 
 - [Requirements to propose a Program for Ambassador Program - Google Doc](https://docs.google.com/document/d/1ZEFCwqVGtByRPlQeM91Grg1_OammV2DFB1xz78ascgY/edit?usp=sharing) - An overview of requirements what a proposal needs to qualify as a Program
 
