@@ -20,11 +20,11 @@ Structure and Descriptions can be improved with suggestions and comments on the 
 
 Here is a quick (2min) overview of how to use the Knowledge Base
 
-VIDEO\_LINK
+{% embed url="https://youtu.be/VsNY3nuPPvE" %}
 
 ## Additional Context
 
-You can find more information on the organisation process and strategy in this video (7min)
+You can find more information (7min) on the organisation process and strategy in this video
 
 {% embed url="https://www.youtube.com/watch?v=v8VBBAL7PzI" %}
 
