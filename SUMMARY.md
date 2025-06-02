@@ -32,7 +32,7 @@
 * [Trust and Verification](trust-and-verification/README.md)
   * [How do we build trust?](trust-and-verification/how-do-we-build-trust.md)
   * [How Can We Verify Legitimacy?](trust-and-verification/how-can-we-verify-legitimacy.md)
-* [Rist Mitigation](rist-mitigation/README.md)
+* [Risk Mitigation](risk-mitigation/README.md)
   * [How do we mitigate potential risks?](rist-mitigation/how-do-we-mitigate-potential-risks.md)
   * [What Are the Risks for the Ambassador Program?](rist-mitigation/what-are-the-risks-for-the-ambassador-program.md)
 * [Identification Process](identification-process/README.md)
