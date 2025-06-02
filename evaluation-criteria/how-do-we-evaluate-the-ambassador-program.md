@@ -3,6 +3,8 @@
 In the Ambassador Program, we are recognising both individual and group efforts and structurally collecting the information. We have established a reporting cadence to assess impact. We have also automated participation tracking and consistently involve people in decision-making. Multiple educational programs and experiments have been experimented with to help adapt to new challenges and learn new skills.
 
 
+
+
 ### List of source Assets, tools or processes:
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
 
@@ -15,4 +17,8 @@ In the Ambassador Program, we are recognising both individual and group efforts 
 - [Requirements to propose a Program for Ambassador Program - Google Doc](https://docs.google.com/document/d/1ZEFCwqVGtByRPlQeM91Grg1_OammV2DFB1xz78ascgY/edit?usp=sharing) - An overview of requirements what a proposal needs to qualify as a Program
 
 - [Ambassador Program Analysis - Miro Board](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&amp;cot=14) - Miroboard that shows voting results on status of Ambassador Program
+
+- [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
+
+- [Snet Latam Community - Medium Account](https://singularitynet-latam.medium.com/) - A blogging platform used to publish articles, share insights, and build thought leadership through long-form written content.
 
