@@ -34,3 +34,5 @@ Some limitations are necessary to ensure that programs operate ethically and com
 
 - [Writers Workgroup Governance - Google Doc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc) - Talks about WG membership, roles, projects, collaborations etc
 
+- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
+
