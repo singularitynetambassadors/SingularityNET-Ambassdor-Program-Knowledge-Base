@@ -5,6 +5,8 @@ Resource management ensures that the assets such as time, costs and contributor 
 Resource management ensures that the system can sustainably operate, scale, and achieve its goals without overextending its capacity.
 
 
+
+
 ### List of source Assets, tools or processes:
 - [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is website used to onboard people using Dework to manage operations in Ambassador Program
 
@@ -17,4 +19,8 @@ Resource management ensures that the system can sustainably operate, scale, and 
 - [Voting / Consensus / Consent / Decision making in Ambassador Program - Miro Board](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891620709&amp;cot=10) - Ideation and insights on how we could go about establishing decision making processes
 
 - [Proposal Framework for Role proposals - Google Doc](https://docs.google.com/document/d/1sIgmOqTfLc6jieX8sdDVSZl48wqRnBrFu-z8R7ofXcs/edit?usp=sharing) - This document outlines a framework for proposing roles within an organization, covering aspects like role details, activities, recognition, time commitment and guild assignment
+
+- [AI Ethics WorkGroup - GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2) - GitHub board documenting contributions, open issues, and completed actions to support transparent governance and coordination
+
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
 
