@@ -41,10 +41,16 @@ The participants can expect the Ambassador Program to provide:
 
   
 
+
+
 ### List of source Assets, tools or processes:
+- [African SNET Guild - Members Collective Template](https://docs.google.com/document/d/1XVQGAQzZ95LoT7sxMjFy0gfyZNHo7VwtHCqoGjVi99A/edit) - This report analyzes survey data from West African participants to assess the feasibility of developing indigenous AI tools, focusing on societal challenges, local trust in technology, and recommendations for culturally sensitive, grassroots-driven AI development in Africa
+
 - [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is website used to onboard people using Dework to manage operations in Ambassador Program
 
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
+
+- [training session on documentation](https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing) - Missing Analysis 11
 
 - [Ambassador Program Sign up Form](https://docs.google.com/forms/d/e/1FAIpQLSd3EKjCONzpnrgm7g2latLg_eFpfRjYRoAEr7TzPrx5HfEsPw/viewform) - Sign up form for the Ambassador Program
 
@@ -82,4 +88,19 @@ The participants can expect the Ambassador Program to provide:
 
 - [Writers Workgroup Governance - Google Doc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc) - Talks about WG membership, roles, projects, collaborations etc
 
+- [AI Ethics WorkGroup - GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2) - GitHub board documenting contributions, open issues, and completed actions to support transparent governance and coordination
+
+- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
+
+- [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
+
+- [singularitynet.latam - Linktree](https://linktr.ee/singularitynet.latam) - Acts as a central hub for all your social links. Linktree itself allows to share one URL that leads to multiple destinations such as social media profiles, websites, and content platforms.
+
+- [Snet Latam Community - X Account](https://x.com/SNET_Latam) - Used for real-time communication, sharing updates, engaging with communities, and building a public-facing presence through posts, replies, and media
+
+- [Snet Latam Community - Medium Account](https://singularitynet-latam.medium.com/) - A blogging platform used to publish articles, share insights, and build thought leadership through long-form written content.
+
+- [Snet Latam Community - Linked In Account](https://www.linkedin.com/showcase/snet-latam/?viewAsMember=true) - A professional networking platform used to showcase your experience, connect with peers, and engage in industry-specific conversations.
+
+- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
 
