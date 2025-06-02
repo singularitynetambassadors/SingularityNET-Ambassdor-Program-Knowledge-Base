@@ -17,9 +17,10 @@ We have put emphasis on transparency and the findability of our collective asset
 
 
 
-
 ### List of source Assets, tools or processes:
 - [Onboarding WG report Q4 2023 - Google Doc](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit#heading=h.ybfi2uikflvv) - A report about a onboarding WG
+
+- [training session on documentation](https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing) - Missing Analysis 11
 
 - [Ambassador Program Sign up Form](https://docs.google.com/forms/d/e/1FAIpQLSd3EKjCONzpnrgm7g2latLg_eFpfRjYRoAEr7TzPrx5HfEsPw/viewform) - Sign up form for the Ambassador Program
 
@@ -49,3 +50,18 @@ We have put emphasis on transparency and the findability of our collective asset
 
 - [2023 SingularityNET Content Planner - Google Sheets](https://docs.google.com/spreadsheets/d/1FBPoJY66H_ZKMOkgybEqEcBeH9JjzABp1i8Iyf2CJIM/edit#gid=690251073) - A sheet to plan content management over calendar days
 
+- [Analysis Report for Research on African AI Indigenous Tooling - Google Doc](https://docs.google.com/document/d/1hdyUiZ5QaYta7Rko52X_zvHDS-n6QpNfayP8NVE2sjk/edit?tab=t.0) - The members collective template is a guiding template that seeks to welcome excellent ideas and initiative that will help in propagating the growth of the SingularityNet African Guild initiatives within Africa only
+
+- [AI Ethics WorkGroup - GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2) - GitHub board documenting contributions, open issues, and completed actions to support transparent governance and coordination
+
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
+
+- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
+
+- [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
+
+- [singularitynet.latam - Linktree](https://linktr.ee/singularitynet.latam) - Acts as a central hub for all your social links. Linktree itself allows to share one URL that leads to multiple destinations such as social media profiles, websites, and content platforms.
+
+- [Snet Latam Community - Medium Account](https://singularitynet-latam.medium.com/) - A blogging platform used to publish articles, share insights, and build thought leadership through long-form written content.
+
+- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
