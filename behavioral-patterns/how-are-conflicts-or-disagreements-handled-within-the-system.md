@@ -14,3 +14,4 @@ Conflict resolution within the Ambassador Program follows decentralised and tran
 
 - [Facilitating Decision Making - Webpage](https://thefacilitatorscollective.wordpress.com/2023/06/09/facilitating-decision-making/) - Webpage with Guidance on how to facilitate decision making
 
+- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
