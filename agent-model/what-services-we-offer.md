@@ -13,6 +13,8 @@ Each Core Contributor can offer multiple services. More about Core Contributors 
 Our services rapidly change due the consistently changing environment. There are always new people getting onboarded who have novel ways of working or passion to do the things we need.
 
 
+
+
 ### List of source Assets, tools or processes:
 - [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is website used to onboard people using Dework to manage operations in Ambassador Program
 
@@ -33,4 +35,9 @@ Our services rapidly change due the consistently changing environment. There are
 - [Video Workgroup - GitBook Website](https://snet-ambassadors.gitbook.io/home/workgroups/video-workgroup) - Section in Snet Ambassador Gitbook that explains how the workgroup works
 
 - [Twitter Threads](https://twitter.com/SNET_Ambassador/status/1710371182426419455) - Twitter link to SingularityNET Ambassador Program thread
+
+- [Snet Latam Community - X Account](https://x.com/SNET_Latam) - Used for real-time communication, sharing updates, engaging with communities, and building a public-facing presence through posts, replies, and media
+
+- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
+
 
