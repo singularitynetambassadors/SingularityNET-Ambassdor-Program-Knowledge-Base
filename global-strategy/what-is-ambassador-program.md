@@ -15,10 +15,20 @@ Through this structure, the Ambassador Program fosters an inclusive, adaptable, 
 
 
 
+
+
 ### List of source Assets, tools or processes:
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
 
 - [SNET Ambassador Program - Webpage](https://singularitynet.io/ambassador-program/) - Page on the singularitynet.io webpage that provides high level info on the Ambassador program
 
 - [Twitter Threads](https://twitter.com/SNET_Ambassador/status/1710371182426419455) - Twitter link to SingularityNET Ambassador Program thread
+
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
+
+- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
+
+- [Snet Latam Community - Medium Account](https://singularitynet-latam.medium.com/) - A blogging platform used to publish articles, share insights, and build thought leadership through long-form written content.
+
+- [Snet Latam Community - Linked In Account](https://www.linkedin.com/showcase/snet-latam/?viewAsMember=true) - A professional networking platform used to showcase your experience, connect with peers, and engage in industry-specific conversations.
 
