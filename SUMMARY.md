@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Getting Started](README.md)
+* [Tools and Channels](Tools-and-Channels.md)
 * [Aspirational Layer](aspirational-layer/README.md)
   * [Morality](aspirational-layer/morality.md)
   * [Ethical](aspirational-layer/ethical.md)
