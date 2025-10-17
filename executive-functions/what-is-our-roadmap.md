@@ -10,4 +10,5 @@ A well-defined roadmap guides development, aligns participants, and ensures stra
 
 
 ### List of source Assets, tools or processes:
-- [Ambassador Calendar - Google calendar](https://calendar.google.com/calendar/embed?src=singularitynetambassadors%40gmail.com) - Calendar that shows all meeting and events dates and times
+- [Governance WG Facilitation Rota - Q3 2025 - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE) - A scheduling document listing the facilitators, topics, and session types (Gov WG or Open Gov) for each meeting in Q3 2025. It covers planning for discussions on budget processes, workgroup task categorization, reserves management, sentiment survey analysis, funding proposals, and other governance-related decisions. This rota helps ensure balanced facilitation, topic coverage, and continuity in governance discussions.
+
