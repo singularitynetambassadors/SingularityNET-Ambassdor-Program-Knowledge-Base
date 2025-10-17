@@ -31,27 +31,25 @@ Adaptability
 
 
 
+
 ### List of source Assets, tools or processes:
-- [Dework PBL Q1 Proposal = Google Doc](https://docs.google.com/document/d/1D-w4GgH3fdZLHSdNsQOXKoFjjWuuMLN9krVf1FFlB58/edit?usp=sharing) - Simplified Budget Request for Dework PBL Workgroup
+- [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
+
+- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
+
+- [Ideas for new approaches to budget decisions - Google Doc](https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit?tab=t.0) - List of ideas to improve Ambassador Program Governance an Treasury management
+
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
+
+- [Minimum Requirements for Proposals - Miro Board](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584332248096&amp;cot=14) - Workgroup types and requirement matrix table
+
+- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
 
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
 
 - [training session on documentation](https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing) - Missing Analysis 11
 
-- [Minimum Requirements for Proposals - Miro Board](https://miro.com/app/board/uXjVN8kUlbw=/?moveToWidget=3458764584332248096&amp;cot=14) - Workgroup types and requirement matrix table
-
-- [Treasury Guild Proposal�- Google Doc](https://docs.google.com/document/d/1-t5dMIadOnIyFc_zCRRcvZ1Zplm2Pg5_KGdrx60TG9w/edit?usp=sharing) - A Treasury Guild 2024 Q1 proposal that gives an overview of workgroup strategy, resource, team, measures and roadmap
-
-- [Snet Discord Server](https://discord.gg/snet) - Main Tool used for Communications
-
 - [Writers Workgroup Governance - Google Doc](https://docs.google.com/document/d/16RnoVQz5fjot2RXsDcYkadW4KHThTtszT8QmjcBLX5w/edit#heading=h.yhgj8y4ky0zc) - Talks about WG membership, roles, projects, collaborations etc
 
-- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
-
-- [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
-
-- [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
-
-- [Onboarding WG Skillshare Matrix - Google Sheet](https://docs.google.com/spreadsheets/d/12R9WMWZRBQDRnnHUFC3dVoZwRkgKgNfj7uLBSaBNqkg/edit?usp=sharing) - This Sheet catalogues Onboading WG member Skills and skill interests
-
+- [Governance WG Facilitation Rota - Q3 2025 - Google Spreadsheet](https://docs.google.com/spreadsheets/d/1iW2KbVOSbMurQo0zczWcb7Z8FIvVFc4zJLQH28reYgE) - A scheduling document listing the facilitators, topics, and session types (Gov WG or Open Gov) for each meeting in Q3 2025. It covers planning for discussions on budget processes, workgroup task categorization, reserves management, sentiment survey analysis, funding proposals, and other governance-related decisions. This rota helps ensure balanced facilitation, topic coverage, and continuity in governance discussions.
 
