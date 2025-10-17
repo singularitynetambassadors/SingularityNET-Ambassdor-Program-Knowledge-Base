@@ -24,27 +24,19 @@ The process involves:
 
 - [BeGIN Interviewers handbook - Google Doc](https://docs.google.com/document/d/1UZTzjgQQvz1bIkB1_ZZR--qyJTfTIGAJSfajD8nmIl4/edit?tab=t.0#heading=h.e4eyhhbphll2) - Detailed handbook designed to help interviewers prepare, conduct, and follow up on interviews effectively within the BeGIN framework
 
-- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
+- [Ideas for new approaches to budget decisions - Google Doc](https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit?tab=t.0) - List of ideas to improve Ambassador Program Governance an Treasury management
 
-- [Onboarding WG report Q4 2023 - Google Doc](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit#heading=h.ybfi2uikflvv) - A report about a onboarding WG
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
 
 - [Proposal Framework for Role proposals - Google Doc](https://docs.google.com/document/d/1sIgmOqTfLc6jieX8sdDVSZl48wqRnBrFu-z8R7ofXcs/edit?usp=sharing) - This document outlines a framework for proposing roles within an organization, covering aspects like role details, activities, recognition, time commitment and guild assignment
 
-- [Quarterly Workgroup Budget Calculator - Google Sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing) - This sheet provides an overview of� Workgroup names and their budgets
+- [Quarterly Workgroup Budget Calculator - Google Sheet](https://docs.google.com/spreadsheets/d/1BBogj9rAO52cpdGP3uvp8hAHNa4Qw66lz9JLjSC2yVs/edit?usp=sharing) - This sheet provides an overview of Workgroup names and their budgets
 
 - [SingularityNET - Blog Website](https://blog.singularitynet.io/) - Foundation medium blog with updates
 
 - [SingularityNET Ambassadors -Medium Page](https://medium.com/@singularitynetambassadors) - Ambassador Program medium blog with articles and updates
 
-- [Snet ambassador Instagram page](https://www.instagram.com/snet_ambassadors/) - Another Platform for posting short clips
-
-- [Snet ambassador X page](https://twitter.com/SNET_Ambassador) - Platform to post announcements
-
-- [Snet Discord Server](https://discord.gg/snet) - Main Tool used for Communications
-
-- [Substack](https://substack.com/) - The subscription network for independent writers and creators
-
 - [Writers WG Process Map - Miro](https://miro.com/app/board/uXjVM7ZVTSo=/?moveToWidget=3458764558093077545&amp;cot=10) - Visual Map about writer's process to deliver articles
 
-
+- [WG budget minimums, Q3 2025 budget caps, sentiment survey rankings - Google Doc](https://docs.google.com/spreadsheets/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE) - Tables and information to change each group budget limits in Ambassador Program
 
