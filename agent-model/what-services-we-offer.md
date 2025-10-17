@@ -15,12 +15,9 @@ Our services rapidly change due the consistently changing environment. There are
 
 
 
+
 ### List of source Assets, tools or processes:
-- [Ambassador Program - Google Drive](https://drive.google.com/drive/u/1/my-drive) - The repository for files in the cloud
-
 - [Dework PBL Course Website on Andamio](https://instance-dework-pbl.vercel.app/course/module/103/overview) - This is website used to onboard people using Dework to manage operations in Ambassador Program
-
-- [Dework Server](https://app.dework.xyz/singularitynet-ambas) - A tool where all workgroups create bounties for the community
 
 - [How to create Cardano Wallet Address using Eternl - Andamio Lesson](https://instance-dework-pbl.vercel.app/course/module/101/1011) - We build trust with people by educating them
 
@@ -29,8 +26,6 @@ Our services rapidly change due the consistently changing environment. There are
 - [Proposal Framework for Role proposals - Google Doc](https://docs.google.com/document/d/1sIgmOqTfLc6jieX8sdDVSZl48wqRnBrFu-z8R7ofXcs/edit?usp=sharing) - This document outlines a framework for proposing roles within an organization, covering aspects like role details, activities, recognition, time commitment and guild assignment
 
 - [Proposal Roadmap - Miro Board](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891619019&amp;cot=14) - Miroboard that shows proposal roadmap
-
-- [Snet Discord Server](https://discord.gg/snet) - Main Tool used for Communications
 
 - [sNET Onboarding session - Google Slides](https://docs.google.com/presentation/d/1xsOPL2exA-1-BfKWk2eKdxjpfRt6kwW_nFWBPq-KzEg/edit#slide=id.p) - Slides about sNET and Ambassador Program
 
