@@ -11,9 +11,8 @@ This is done through:
 
 
 
-### List of source Assets, tools or processes:
-- [AI Ethics WorkGroup - GitHub Project Board](https://github.com/orgs/SingularityNet-Ambassador-Program/projects/1/views/2) - GitHub board documenting contributions, open issues, and completed actions to support transparent governance and coordination
 
+### List of source Assets, tools or processes:
 - [AI Ethics WorkGroup training session: interview skills for qualitative research - YouTube Video](https://www.youtube.com/watch?v=_x9fsRcKIPc) - Hands-on session introducing core techniques and considerations for conducting interviews in ethical and research-driven environments
 
 - [Ambassador Program Analysis - Miro Board](https://miro.com/app/board/uXjVM7pbrUY=/?moveToWidget=3458764557891618718&amp;cot=14) - Miroboard that shows voting results on status of Ambassador Program
@@ -24,11 +23,15 @@ This is done through:
 
 - [FEEDBACK FORM](https://docs.google.com/forms/d/e/1FAIpQLSdedWLANsYUK40Mm8UTxq-uTd4QeVAeAi5Pebg2YUh5ltl7NQ/viewform) - Anonymous Feedback form for the Ambassador Program
 
-- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
+- [Ideas for new approaches to budget decisions - Google Doc](https://docs.google.com/document/d/16jr_Yoq-d_WZWRMNcBFy-GkSNWFbm-VD2J14b69v520/edit?tab=t.0) - List of ideas to improve Ambassador Program Governance an Treasury management
 
-- [Onboarding WG report Q4 2023 - Google Doc](https://docs.google.com/document/d/173UxTc38LhXwR6QuJCKpH9CivgMCQhL4jZZXoMOw-nM/edit#heading=h.ybfi2uikflvv) - A report about a onboarding WG
+- [Interview training AI Ethics WG - Google Slides](https://docs.google.com/presentation/d/1tIbACuTHo-xKqF2gkAEn3CbqOC2YkwBVpqvUdOkxqzU/edit?slide=id.p#slide=id.p) - Video training that demonstrates the process of conducting and transcribing interviews, highlighting tools, structure, and transcription ethics
 
 - [training session on documentation](https://docs.google.com/presentation/d/1faPY5FMAudhqx_P4ismUrqCTuYySq8oADt7O--oE8JQ/edit?usp=sharing) - Missing Analysis 11
 
 - [Writers WG Process Map - Miro](https://miro.com/app/board/uXjVM7ZVTSo=/?moveToWidget=3458764558093077545&amp;cot=10) - Visual Map about writer's process to deliver articles
+
+- [Draft Process for Using New Ideas Budget - Google Doc](https://docs.google.com/document/d/1aVbnw64oax_Il8NAVgxgQ7_-oWx4K_DkwRbY41QJU8s) - A draft governance document defining how the Ambassador Program can allocate its New Ideas budget. It outlines what the funds can be used for, eligibility rules, proposal and decision-making processes, record-keeping requirements, and post-funding reporting. The aim is to enable transparent, fair, and efficient funding of innovative, short-term initiatives or pilots.
+
+- [WG budget minimums, Q3 2025 budget caps, sentiment survey rankings - Google Doc](https://docs.google.com/spreadsheets/d/17a0CssxFOtK_Pd4Q-wMtBfMGJfVVtJlwjCTbbFmUBCE) - Tables and information to change each group budget limits in Ambassador Program
 
